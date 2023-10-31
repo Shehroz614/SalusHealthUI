@@ -1,0 +1,21 @@
+//  ================================================================================================
+//  ? TIP:  It is recommended to use this file for overriding bootstrap variables.
+//  ================================================================================================
+$primary: #36b482;
+$body-color: #020000;
+$dark: #020000;
+$secondary: #243070;
+$default: #82868b;
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 380px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1440px // Custom xxl size,,,,
+);
+$headings-color: #020000;
+// stylelint-disable value-keyword-case
+$font-family-sans-serif: "Helvetica", Helvetica, Arial, serif !default;
+$font-family-monospace: "Helvetica", Helvetica, Arial, serif !default;
